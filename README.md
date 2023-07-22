@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alede91
 - 👀 I’m interested in learn about programming world.
 - 🌱 I’m currently learning FrontEnd Tecnologies.
-- 💞️ I’m looking to collaborate on. I don't know how yet. HEHEHE.
+- 💞️ I’m looking to collaborate on.
 - 📫 You can meet me at: alede91@gmail.com 
 
 <!---
